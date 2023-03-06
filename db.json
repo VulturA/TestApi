@@ -1,24 +1,15 @@
-[
-	{
-	  "posts": [
-	    {
-	      "id": 1,
-	      "title": "hello"
-	    }
-	  ],
-	  "profile": {
-	    "name": "typicode"
-	  }
-	},
-	{
-	"secondposts":[
-	    {
-	      "id": 2,
-	      "title": "It's spring time"
-	    }
-	  ],
-	  "profile": {
-	    "name": "typicode"
-	  }
-	}
-]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    },
+    {
+      "id": 2,
+      "title": "It's spring time"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
