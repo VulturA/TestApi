@@ -9,3 +9,14 @@
     "name": "typicode"
   }
 }
+posts:[
+    {
+      "id": 2,
+      "title": "It's spring time"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+
